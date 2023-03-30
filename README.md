@@ -13,11 +13,17 @@
 
 
 <p align="center">
+   <a     href="#colaboradores">Alunos</a>  •
   <a href="#descricao">Descricao</a> •
   <a     href="#execucao">Execucao</a> •
   <a     href="#especificacoes">Especificacoes</a> •
    <a     href="#colaboradores">Colaboradores</a> 
 </p>
+
+## Alunos
+
+<p>Laura Ellen de Souza Santos - GEC - 1657</p>
+<p>Samuel Alves Chagas - GES - 246</p>
 
 ## Descricao
 
